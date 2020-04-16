@@ -1,2 +1,2 @@
-# Kom-It-Eksamensprojekt
+# KomIT-Eksamensprojekt
 Eksamensprojekt for Kom/It
