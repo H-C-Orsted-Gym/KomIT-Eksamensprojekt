@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Loading</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+	<style>
+		.center img {
+			top: 0;
+			left: 0;
+			right: 0;
+			margin-left: auto;
+		}
+		.center p {
+			text-align: center;
+		}
+	</style>
+</head>
+
+<body style="background-color: #f2f2f2;">
+
+	<p style="text-align: center;"><img src="includes/img/treadmill_man.gif"></p>
+	
+	<p id="loading-text" style="text-align: center;"></p>
+
+	<script>
+		let loadingText = document.getElementById("loading-text");
+		
+		loadingText.innerHTML = "Loading..."
+	</script>
+
+</body>
+
+</html>
