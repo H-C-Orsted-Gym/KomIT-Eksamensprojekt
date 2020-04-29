@@ -5,12 +5,12 @@ html {
 
 /* Change Navbar */
 .navbar-custom {
-    background-color: ;
+    background-color: #05668D;
 }
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: #47cbff;
+    color: #fafbe9;
 }
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
@@ -19,7 +19,7 @@ html {
 /* change the color of active or hovered links */
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
-    color: #ffffff;
+    color: #fafbe9;
 }
 
 
