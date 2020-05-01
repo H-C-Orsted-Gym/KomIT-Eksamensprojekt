@@ -10,11 +10,11 @@ html {
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: #fafbe9;
+    color: #ffffff;
 }
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
-    color: rgba(255,255,255,.5);
+    color: #ffffff;
 }
 /* change the color of active or hovered links */
 .navbar-custom .nav-item.active .nav-link,
