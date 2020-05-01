@@ -3,6 +3,11 @@ html {
 	scroll-behavior: smooth;
 }
 
+.selected {
+	color: #05668D;
+	background-color: #f8fcfc;
+}
+
 /* Change Navbar */
 .navbar-custom {
     background-color: #05668D;
